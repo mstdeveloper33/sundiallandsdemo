@@ -1,6 +1,6 @@
-# sundiallandsdemo
+# Sundiallandsdemo
 
-# project description
+# Project Description
 It is an application developed using the Flutter framework. This project aims to help users with time management and activity planning. The project has a modular structure and is based on clean architecture principles. Within the scope of the project, splash screen, onboarding flow screen, an input text field for keeping a diary that the user will experience, and a graph of the entered data are displayed on the dashboard screen. In addition, json structures of motivation and health data are used within the scope of the project to show daily data to the user.Within the scope of the project, provider was used for state management. A dependency injection structure was established for API service operations and SQL connections. A modular structure was designed. A common configuration is provided for navigation operations. Thank you.
 
 **Requirements**:
@@ -21,11 +21,11 @@ It is an application developed using the Flutter framework. This project aims to
    flutter run
    ```
 
-Video and Images
-
+Video
 
 ![videos](https://github.com/user-attachments/assets/ce5051e1-fdda-4311-8891-27d1903034c9)
 
+Images
 
 ![onboardingone](https://github.com/user-attachments/assets/130001dd-d71f-4df1-8291-582bca229c57)
 ![splash](https://github.com/user-attachments/assets/f0f5caf6-3825-4a92-8359-a5eee19b9c8f)
