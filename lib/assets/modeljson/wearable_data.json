@@ -1,0 +1,65 @@
+
+[
+    {
+      "steps": 7200,
+      "heartRate": 72,
+      "lastUpdated": "2025-01-01T10:00:00Z"
+    },
+    {
+      "steps": 5500,
+      "heartRate": 78,
+      "lastUpdated": "2025-01-02T10:00:00Z"
+    },
+    {
+      "steps": 10800,
+      "heartRate": 90,
+      "lastUpdated": "2025-01-03T10:00:00Z"
+    },
+    {
+      "steps": 11000,
+      "heartRate": 71,
+      "lastUpdated": "2025-01-04T10:00:00Z"
+      
+    },
+    {
+      "steps": 7200,
+      "heartRate": 82,
+      "lastUpdated": "2025-01-05T10:00:00Z"
+    },
+    {
+      "steps": 12400,
+      "heartRate": 69,
+      "lastUpdated": "2025-01-06T10:00:00Z"
+    },
+    {
+      "steps": 6850,
+      "heartRate": 70,
+      "lastUpdated": "2025-01-07T10:00:00Z"
+    },
+    {
+      "steps": 9030,
+      "heartRate": 73,
+      "lastUpdated": "2025-01-08T10:00:00Z"
+    },
+    {
+      "steps": 7200,
+      "heartRate": 77,
+      "lastUpdated": "2025-01-09T10:00:00Z"
+    },
+    {
+      "steps": 8500,
+      "heartRate": 81,
+      "lastUpdated": "2025-01-10T10:00:00Z"
+    },
+    {
+      "steps": 6800,
+      "heartRate": 83,
+      "lastUpdated": "2025-01-11T10:00:00Z"
+    },
+    {
+      "steps": 9000,
+      "heartRate": 80,
+      "lastUpdated": "2025-01-12T10:00:00Z"
+    }
+  ]
+  
